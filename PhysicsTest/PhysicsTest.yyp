@@ -39,6 +39,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Obj_heroSprite","path":"sprites/Obj_heroSprite/Obj_heroSprite.yy",},},
     {"id":{"name":"Obj_sprite","path":"sprites/Obj_sprite/Obj_sprite.yy",},},
+    {"id":{"name":"Spr_BeanBoy","path":"sprites/Spr_BeanBoy/Spr_BeanBoy.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

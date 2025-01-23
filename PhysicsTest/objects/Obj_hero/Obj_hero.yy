@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Obj_heroSprite",
-    "path":"sprites/Obj_heroSprite/Obj_heroSprite.yy",
+    "name":"Spr_BeanBoy",
+    "path":"sprites/Spr_BeanBoy/Spr_BeanBoy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
